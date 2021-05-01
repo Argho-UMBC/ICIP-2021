@@ -368,8 +368,7 @@ def vgg_image_model():
 
     
     
-    x=Flatten()(x)
-    
+  
 
     
     model_img=Model(inputs=x_input,outputs=x)
