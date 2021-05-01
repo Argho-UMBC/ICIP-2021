@@ -1,0 +1,1416 @@
+,index,Image_ID,Question,Ground_Truth,Question_Type
+0,8,10169.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1,9,10169.JPG,How many buildings are in this image?,4,Simple_Counting
+2,10,10169.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+3,11,10169.JPG,How many buildings are non flooded?,4,Complex_Counting
+4,12,10169.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+5,28,10173.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+6,29,10173.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+7,30,10173.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+8,31,10173.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+9,32,10173.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+10,46,10177.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+11,47,10177.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+12,48,10177.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+13,49,10178.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+14,50,10178.JPG,Is the entire road flooded?,No,Yes/No_Road
+15,51,10178.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+16,91,10809.JPG,How many buildings are in this image?,4,Simple_Counting
+17,92,10809.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+18,93,10809.JPG,What is the condition of road?,non flooded,Condition_Road
+19,94,10809.JPG,How many buildings are non flooded?,4,Complex_Counting
+20,95,10809.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+21,121,10815.JPG,How many non flooded buildings can be seen in this image?,5,Complex_Counting
+22,122,10815.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+23,123,10815.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+24,124,10815.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+25,125,10815.JPG,How many buildings are in the image?,5,Simple_Counting
+26,126,10816.JPG,Is the entire road flooded?,No,Yes/No_Road
+27,127,10816.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+28,128,10816.JPG,How many buildings are in this image?,4,Simple_Counting
+29,129,10816.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+30,130,10816.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+31,146,10822.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+32,148,10824.JPG,How many buildings are in this image?,1,Simple_Counting
+33,149,10824.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+34,150,10824.JPG,How many buildings are non flooded?,1,Complex_Counting
+35,158,10833.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+36,173,10842.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+37,174,10842.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+38,175,10842.JPG,Is the entire road flooded?,No,Yes/No_Road
+39,184,11484.JPG,How many buildings are non flooded in this image?,28,Complex_Counting
+40,185,11484.JPG,How many buildings are in the image?,28,Simple_Counting
+41,186,11484.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+42,187,11484.JPG,Is the entire road flooded?,No,Yes/No_Road
+43,188,11484.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+44,196,6331.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+45,197,6331.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+46,198,6331.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+47,202,6333.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+48,203,6333.JPG,What is the condition of road?,non flooded,Condition_Road
+49,204,6333.JPG,Is the entire road flooded?,No,Yes/No_Road
+50,214,6337.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+51,215,6337.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+52,216,6337.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+53,220,6339.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+54,221,6339.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+55,222,6339.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+56,232,6343.JPG,Is the entire road flooded?,No,Yes/No_Road
+57,233,6343.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+58,234,6343.JPG,What is the condition of road?,non flooded,Condition_Road
+59,238,6345.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+60,239,6345.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+61,240,6345.JPG,What is the condition of road?,non flooded,Condition_Road
+62,250,6349.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+63,251,6349.JPG,What is the condition of road?,non flooded,Condition_Road
+64,252,6349.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+65,268,6355.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+66,269,6355.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+67,270,6355.JPG,Is the entire road flooded?,No,Yes/No_Road
+68,271,6356.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+69,272,6356.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+70,273,6356.JPG,What is the condition of road?,non flooded,Condition_Road
+71,274,6357.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+72,275,6357.JPG,Is the entire road flooded?,No,Yes/No_Road
+73,276,6357.JPG,What is the condition of road?,non flooded,Condition_Road
+74,301,6366.JPG,Is the entire road flooded?,No,Yes/No_Road
+75,302,6366.JPG,What is the condition of road?,non flooded,Condition_Road
+76,303,6366.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+77,337,6378.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+78,338,6378.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+79,339,6378.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+80,343,6380.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+81,344,6380.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+82,345,6380.JPG,Is the entire road flooded?,No,Yes/No_Road
+83,370,6390.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+84,371,6390.JPG,What is the condition of road?,non flooded,Condition_Road
+85,372,6390.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+86,376,6392.JPG,Is the entire road flooded?,No,Yes/No_Road
+87,377,6392.JPG,What is the condition of road?,non flooded,Condition_Road
+88,378,6392.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+89,388,6396.JPG,Is the entire road flooded?,No,Yes/No_Road
+90,389,6396.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+91,390,6396.JPG,What is the condition of road?,non flooded,Condition_Road
+92,400,6400.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+93,401,6400.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+94,402,6400.JPG,What is the condition of road?,non flooded,Condition_Road
+95,415,6406.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+96,416,6406.JPG,Is the entire road flooded?,No,Yes/No_Road
+97,417,6406.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+98,427,6410.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+99,428,6410.JPG,Is the entire road flooded?,No,Yes/No_Road
+100,429,6410.JPG,What is the condition of road?,non flooded,Condition_Road
+101,485,6423.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+102,486,6423.JPG,What is the condition of road?,non flooded,Condition_Road
+103,487,6423.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+104,503,6428.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+105,504,6428.JPG,How many buildings are non flooded?,2,Complex_Counting
+106,505,6428.JPG,How many buildings are in this image?,2,Simple_Counting
+107,506,6428.JPG,What is the condition of road?,non flooded,Condition_Road
+108,507,6428.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+109,508,6429.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+110,509,6429.JPG,How many buildings can be seen in this image?,3,Simple_Counting
+111,510,6429.JPG,What is the condition of road?,non flooded,Condition_Road
+112,511,6429.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+113,512,6429.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+114,528,6434.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+115,529,6434.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+116,530,6434.JPG,How many buildings are in this image?,3,Simple_Counting
+117,531,6434.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+118,532,6434.JPG,How many buildings are non flooded?,3,Complex_Counting
+119,566,6448.JPG,How many buildings are non flooded?,2,Complex_Counting
+120,567,6448.JPG,How many buildings are in the image?,2,Simple_Counting
+121,568,6448.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+122,650,6470.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+123,651,6470.JPG,Is the entire road flooded?,No,Yes/No_Road
+124,652,6470.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+125,653,6470.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+126,654,6470.JPG,How many buildings can be seen in this image?,3,Simple_Counting
+127,655,6475.JPG,How many buildings are in this image?,4,Simple_Counting
+128,656,6475.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+129,657,6475.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+130,663,6479.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+131,664,6480.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+132,665,6480.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+133,666,6480.JPG,How many buildings are non flooded?,2,Complex_Counting
+134,672,6482.JPG,How many buildings are in the image?,4,Simple_Counting
+135,673,6482.JPG,How many buildings are non flooded?,4,Complex_Counting
+136,674,6482.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+137,678,6485.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+138,680,6487.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+139,684,6489.JPG,How many buildings are non flooded?,4,Complex_Counting
+140,685,6489.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+141,686,6489.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+142,695,6497.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+143,698,6500.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+144,702,6502.JPG,How many buildings are in this image?,2,Simple_Counting
+145,703,6502.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+146,704,6502.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+147,705,6503.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+148,706,6503.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+149,707,6503.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+150,717,6507.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+151,718,6507.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+152,719,6507.JPG,How many buildings are in this image?,3,Simple_Counting
+153,720,6508.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+154,721,6508.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+155,722,6508.JPG,How many buildings are non flooded?,4,Complex_Counting
+156,729,6511.JPG,How many buildings are in the image?,5,Simple_Counting
+157,730,6511.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+158,731,6511.JPG,How many non flooded buildings can be seen in this image?,5,Complex_Counting
+159,741,6515.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+160,742,6515.JPG,How many buildings can be seen in this image?,3,Simple_Counting
+161,743,6515.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+162,753,6521.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+163,754,6521.JPG,How many buildings are non flooded?,3,Complex_Counting
+164,755,6521.JPG,How many buildings can be seen in this image?,3,Simple_Counting
+165,756,6522.JPG,How many non flooded buildings can be seen in this image?,5,Complex_Counting
+166,757,6522.JPG,How many buildings are in the image?,5,Simple_Counting
+167,758,6522.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+168,802,6539.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+169,816,6547.JPG,How many buildings are in this image?,1,Simple_Counting
+170,817,6547.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+171,818,6547.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+172,826,6551.JPG,Is the entire road flooded?,No,Yes/No_Road
+173,827,6551.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+174,828,6551.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+175,835,6554.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+176,836,6554.JPG,How many buildings are in the image?,3,Simple_Counting
+177,837,6554.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+178,910,6581.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+179,911,6581.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+180,912,6581.JPG,Is the entire road flooded?,No,Yes/No_Road
+181,913,6582.JPG,What is the condition of road?,non flooded,Condition_Road
+182,914,6582.JPG,Is the entire road flooded?,No,Yes/No_Road
+183,915,6582.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+184,930,6596.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+185,931,6596.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+186,932,6596.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+187,936,6598.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+188,937,6598.JPG,Is the entire road non flooded?,No,Yes/No_Road
+189,938,6598.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+190,952,6609.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+191,953,6609.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+192,954,6609.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+193,955,6609.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+194,956,6609.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+195,982,6621.JPG,What is the condition of road?,non flooded,Condition_Road
+196,983,6621.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+197,984,6621.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+198,985,6621.JPG,Is the entire road flooded?,No,Yes/No_Road
+199,986,6621.JPG,How many buildings are in the image?,3,Simple_Counting
+200,999,6626.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+201,1000,6626.JPG,What is the condition of road?,non flooded,Condition_Road
+202,1001,6626.JPG,How many buildings are non flooded in this image?,4,Complex_Counting
+203,1002,6626.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+204,1003,6626.JPG,Is the entire road flooded?,No,Yes/No_Road
+205,1014,6629.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+206,1015,6630.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+207,1016,6631.JPG,Is the entire road flooded?,No,Yes/No_Road
+208,1017,6631.JPG,What is the condition of road?,non flooded,Condition_Road
+209,1018,6631.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+210,1025,6634.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+211,1026,6634.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+212,1027,6634.JPG,Is the entire road flooded?,No,Yes/No_Road
+213,1029,6636.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+214,1045,6642.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+215,1046,6642.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+216,1047,6642.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+217,1048,6642.JPG,How many buildings can be seen in this image?,4,Simple_Counting
+218,1049,6642.JPG,How many buildings are non flooded in this image?,4,Complex_Counting
+219,1083,6650.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+220,1084,6650.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+221,1085,6650.JPG,How many buildings are non flooded in this image?,5,Complex_Counting
+222,1086,6650.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+223,1087,6650.JPG,How many buildings are in this image?,5,Simple_Counting
+224,1146,6665.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+225,1150,6669.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+226,1151,6669.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+227,1152,6669.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+228,1165,6674.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+229,1166,6674.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+230,1167,6674.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+231,1178,6683.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+232,1179,6684.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+233,1180,6684.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+234,1181,6684.JPG,Is the entire road flooded?,No,Yes/No_Road
+235,1191,6690.JPG,How many buildings are in this image?,20,Simple_Counting
+236,1192,6690.JPG,How many buildings are non flooded in this image?,15,Complex_Counting
+237,1193,6690.JPG,What is the condition of road?,"flooded,non flooded",Condition_Road
+238,1194,6690.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+239,1195,6690.JPG,How many buildings are flooded?,5,Complex_Counting
+240,1196,6690.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+241,1212,6694.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+242,1213,6694.JPG,Is the entire road non flooded?,No,Yes/No_Road
+243,1214,6694.JPG,What is the condition of road?,flooded,Condition_Road
+244,1215,6694.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+245,1216,6694.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+246,1263,6709.JPG,How many buildings are non flooded in this image?,15,Complex_Counting
+247,1264,6709.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+248,1265,6709.JPG,What is the condition of the road in this image?,"flooded,non flooded",Condition_Road
+249,1266,6709.JPG,How many buildings are in this image?,15,Simple_Counting
+250,1267,6709.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+251,1358,6740.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+252,1359,6740.JPG,How many non flooded buildings can be seen in this image?,5,Complex_Counting
+253,1360,6740.JPG,How many buildings are in this image?,5,Simple_Counting
+254,1361,6741.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+255,1362,6741.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+256,1363,6741.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+257,1400,6752.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+258,1401,6752.JPG,How many buildings are non flooded?,4,Complex_Counting
+259,1402,6752.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+260,1438,6767.JPG,How many buildings are non flooded?,6,Complex_Counting
+261,1439,6767.JPG,How many buildings are in the image?,6,Simple_Counting
+262,1440,6767.JPG,Is the entire road flooded?,No,Yes/No_Road
+263,1441,6767.JPG,What is the condition of road?,non flooded,Condition_Road
+264,1442,6767.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+265,1448,6769.JPG,How many buildings are in the image?,9,Simple_Counting
+266,1449,6769.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+267,1450,6769.JPG,How many non flooded buildings can be seen in this image?,9,Complex_Counting
+268,1451,6769.JPG,Is the entire road flooded?,No,Yes/No_Road
+269,1452,6769.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+270,1488,6777.JPG,How many buildings are in this image?,6,Simple_Counting
+271,1489,6777.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+272,1490,6777.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+273,1491,6777.JPG,How many buildings are non flooded in this image?,6,Complex_Counting
+274,1492,6777.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+275,1508,6781.JPG,How many buildings are non flooded in this image?,6,Complex_Counting
+276,1509,6781.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+277,1510,6781.JPG,Is the entire road flooded?,No,Yes/No_Road
+278,1511,6781.JPG,How many buildings can be seen in this image?,6,Simple_Counting
+279,1512,6781.JPG,What is the condition of road?,non flooded,Condition_Road
+280,1513,6782.JPG,How many buildings are in the image?,5,Simple_Counting
+281,1514,6782.JPG,How many buildings are non flooded?,5,Complex_Counting
+282,1515,6782.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+283,1519,6784.JPG,How many buildings are in the image?,6,Simple_Counting
+284,1520,6784.JPG,Is the entire road flooded?,No,Yes/No_Road
+285,1521,6784.JPG,How many buildings are non flooded in this image?,6,Complex_Counting
+286,1522,6784.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+287,1523,6784.JPG,What is the condition of road?,non flooded,Condition_Road
+288,1554,6791.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+289,1555,6791.JPG,How many buildings are non flooded in this image?,7,Complex_Counting
+290,1556,6791.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+291,1557,6791.JPG,How many buildings are in the image?,7,Simple_Counting
+292,1558,6791.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+293,1604,6801.JPG,How many buildings can be seen in this image?,5,Simple_Counting
+294,1605,6801.JPG,What is the condition of road?,non flooded,Condition_Road
+295,1606,6801.JPG,How many buildings are non flooded?,5,Complex_Counting
+296,1607,6801.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+297,1608,6801.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+298,1644,6811.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+299,1655,6816.JPG,How many buildings are in the image?,4,Simple_Counting
+300,1656,6816.JPG,How many buildings are non flooded?,4,Complex_Counting
+301,1657,6816.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+302,1658,6817.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+303,1659,6817.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+304,1660,6817.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+305,1694,6828.JPG,How many buildings are non flooded in this image?,2,Complex_Counting
+306,1695,6828.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+307,1696,6828.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+308,1735,6840.JPG,Is the entire road flooded?,No,Yes/No_Road
+309,1736,6840.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+310,1737,6840.JPG,How many buildings can be seen in the image?,8,Simple_Counting
+311,1738,6840.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+312,1739,6840.JPG,How many buildings are non flooded in this image?,8,Complex_Counting
+313,1740,6841.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+314,1741,6841.JPG,How many buildings are non flooded?,5,Complex_Counting
+315,1742,6841.JPG,What is the condition of road?,non flooded,Condition_Road
+316,1743,6841.JPG,How many buildings are in this image?,5,Simple_Counting
+317,1744,6841.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+318,1760,6845.JPG,How many buildings are in the image?,11,Simple_Counting
+319,1761,6845.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+320,1762,6845.JPG,How many buildings are non flooded in this image?,11,Complex_Counting
+321,1763,6845.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+322,1764,6845.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+323,1770,6848.JPG,How many buildings are in this image?,7,Simple_Counting
+324,1771,6848.JPG,Is the entire road flooded?,No,Yes/No_Road
+325,1772,6848.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+326,1773,6848.JPG,How many buildings are non flooded?,7,Complex_Counting
+327,1774,6848.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+328,1829,6861.JPG,Is the entire road flooded?,No,Yes/No_Road
+329,1830,6861.JPG,How many buildings are non flooded in this image?,5,Complex_Counting
+330,1831,6861.JPG,How many buildings can be seen in the image?,5,Simple_Counting
+331,1832,6861.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+332,1833,6861.JPG,What is the condition of road?,non flooded,Condition_Road
+333,1844,6892.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+334,1845,6892.JPG,How many buildings are in this image?,4,Simple_Counting
+335,1846,6892.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+336,1847,6892.JPG,Is the entire road flooded?,No,Yes/No_Road
+337,1848,6892.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+338,1854,6894.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+339,1855,6894.JPG,Is the entire road flooded?,No,Yes/No_Road
+340,1856,6894.JPG,How many buildings are in this image?,4,Simple_Counting
+341,1857,6894.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+342,1858,6894.JPG,How many buildings are non flooded in this image?,4,Complex_Counting
+343,1869,6897.JPG,What is the condition of road?,non flooded,Condition_Road
+344,1870,6897.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+345,1871,6897.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+346,1872,6897.JPG,How many buildings are non flooded?,4,Complex_Counting
+347,1873,6897.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+348,1899,6903.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+349,1900,6903.JPG,How many buildings can be seen in this image?,3,Simple_Counting
+350,1901,6903.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+351,1902,6903.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+352,1903,6903.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+353,1956,6916.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+354,1957,6916.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+355,1958,6916.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+356,1968,6921.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+357,1969,6921.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+358,1970,6921.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+359,1977,6925.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+360,1978,6925.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+361,1979,6925.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+362,1980,6925.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+363,1981,6925.JPG,How many buildings are in the image?,1,Simple_Counting
+364,2012,6932.JPG,How many buildings are in this image?,3,Simple_Counting
+365,2013,6932.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+366,2014,6932.JPG,What is the condition of road?,non flooded,Condition_Road
+367,2015,6932.JPG,Is the entire road flooded?,No,Yes/No_Road
+368,2016,6932.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+369,2037,6937.JPG,How many buildings are non flooded?,4,Complex_Counting
+370,2038,6937.JPG,What is the condition of road?,non flooded,Condition_Road
+371,2039,6937.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+372,2040,6937.JPG,Is the entire road flooded?,No,Yes/No_Road
+373,2041,6937.JPG,How many buildings can be seen in the image?,4,Simple_Counting
+374,2062,6942.JPG,How many buildings are non flooded?,2,Complex_Counting
+375,2063,6942.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+376,2064,6942.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+377,2065,6942.JPG,Is the entire road flooded?,No,Yes/No_Road
+378,2066,6942.JPG,How many buildings are in this image?,2,Simple_Counting
+379,2087,6948.JPG,What is the condition of road?,non flooded,Condition_Road
+380,2088,6948.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+381,2089,6948.JPG,How many buildings are in the image?,1,Simple_Counting
+382,2090,6948.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+383,2091,6948.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+384,2092,6949.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+385,2093,6949.JPG,What is the condition of road?,non flooded,Condition_Road
+386,2094,6949.JPG,Is the entire road flooded?,No,Yes/No_Road
+387,2095,6950.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+388,2096,6950.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+389,2097,6950.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+390,2098,6950.JPG,Is the entire road flooded?,No,Yes/No_Road
+391,2099,6950.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+392,2144,6962.JPG,Is the entire road flooded?,No,Yes/No_Road
+393,2145,6962.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+394,2146,6962.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+395,2147,6962.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+396,2148,6962.JPG,How many buildings are in the image?,4,Simple_Counting
+397,2199,6973.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+398,2200,6973.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+399,2201,6973.JPG,How many buildings are in the image?,3,Simple_Counting
+400,2202,6973.JPG,Is the entire road flooded?,No,Yes/No_Road
+401,2203,6973.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+402,2209,6975.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+403,2210,6975.JPG,How many buildings are in the image?,3,Simple_Counting
+404,2211,6975.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+405,2212,6975.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+406,2213,6975.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+407,2219,6977.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+408,2220,6977.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+409,2221,6977.JPG,What is the condition of road?,non flooded,Condition_Road
+410,2222,6977.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+411,2223,6977.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+412,2244,6984.JPG,How many buildings are in this image?,2,Simple_Counting
+413,2245,6984.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+414,2246,6984.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+415,2247,6984.JPG,How many buildings are non flooded?,2,Complex_Counting
+416,2248,6984.JPG,Is the entire road flooded?,No,Yes/No_Road
+417,2259,6987.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+418,2260,6987.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+419,2261,6987.JPG,Is the entire road flooded?,No,Yes/No_Road
+420,2262,6987.JPG,What is the condition of road?,non flooded,Condition_Road
+421,2263,6987.JPG,How many buildings are in the image?,1,Simple_Counting
+422,2264,6991.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+423,2288,7001.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+424,2289,7002.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+425,2294,7005.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+426,2295,7005.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+427,2296,7005.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+428,2307,7012.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+429,2308,7013.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+430,2314,7019.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+431,2315,7020.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+432,2316,7020.JPG,What is the condition of road?,non flooded,Condition_Road
+433,2317,7020.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+434,2327,7030.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+435,2329,7032.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+436,2331,7034.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+437,2369,7052.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+438,2370,7052.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+439,2371,7052.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+440,2379,7058.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+441,2381,7060.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+442,2382,7060.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+443,2383,7060.JPG,What is the condition of road?,non flooded,Condition_Road
+444,2387,7062.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+445,2388,7062.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+446,2389,7062.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+447,2399,7068.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+448,2400,7068.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+449,2401,7068.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+450,2417,7074.JPG,What is the condition of road?,non flooded,Condition_Road
+451,2418,7074.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+452,2419,7074.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+453,2423,7076.JPG,Is the entire road flooded?,No,Yes/No_Road
+454,2424,7076.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+455,2425,7076.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+456,2436,7084.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+457,2444,7093.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+458,2446,7095.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+459,2454,7099.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+460,2455,7099.JPG,What is the condition of road?,non flooded,Condition_Road
+461,2456,7099.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+462,2462,7101.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+463,2463,7101.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+464,2464,7101.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+465,2465,7101.JPG,How many buildings are in the image?,1,Simple_Counting
+466,2466,7101.JPG,What is the condition of road?,non flooded,Condition_Road
+467,2477,7104.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+468,2478,7104.JPG,What is the condition of road?,non flooded,Condition_Road
+469,2479,7104.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+470,2480,7104.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+471,2481,7104.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+472,2507,7111.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+473,2508,7111.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+474,2509,7111.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+475,2510,7111.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+476,2511,7111.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+477,2517,7116.JPG,How many buildings can be seen in this image?,4,Simple_Counting
+478,2518,7116.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+479,2519,7116.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+480,2520,7116.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+481,2521,7116.JPG,What is the condition of road?,non flooded,Condition_Road
+482,2527,7119.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+483,2528,7119.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+484,2529,7119.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+485,2530,7119.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+486,2531,7119.JPG,How many buildings are in this image?,4,Simple_Counting
+487,2600,7145.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+488,2601,7145.JPG,What is the condition of road?,non flooded,Condition_Road
+489,2602,7145.JPG,How many buildings are in this image?,1,Simple_Counting
+490,2603,7145.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+491,2604,7145.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+492,2615,7148.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+493,2616,7148.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+494,2617,7148.JPG,What is the condition of road?,non flooded,Condition_Road
+495,2618,7148.JPG,How many buildings are in the image?,1,Simple_Counting
+496,2619,7148.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+497,2630,7152.JPG,What is the condition of road?,non flooded,Condition_Road
+498,2631,7152.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+499,2632,7152.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+500,2633,7152.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+501,2634,7152.JPG,Is the entire road flooded?,No,Yes/No_Road
+502,2635,7153.JPG,How many buildings are in the image?,1,Simple_Counting
+503,2636,7153.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+504,2637,7153.JPG,Is the entire road flooded?,No,Yes/No_Road
+505,2638,7153.JPG,How many buildings are non flooded?,1,Complex_Counting
+506,2639,7153.JPG,What is the condition of road?,non flooded,Condition_Road
+507,2650,7159.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+508,2657,7166.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+509,2660,7169.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+510,2664,7173.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+511,2679,7180.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+512,2689,7190.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+513,2709,7196.JPG,Is the entire road flooded?,No,Yes/No_Road
+514,2710,7196.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+515,2711,7196.JPG,What is the condition of road?,non flooded,Condition_Road
+516,2712,7197.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+517,2713,7197.JPG,Is the entire road flooded?,No,Yes/No_Road
+518,2714,7197.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+519,2718,7200.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+520,2719,7200.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+521,2720,7200.JPG,What is the condition of road?,non flooded,Condition_Road
+522,2731,7204.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+523,2732,7204.JPG,Is the entire road flooded?,No,Yes/No_Road
+524,2733,7204.JPG,What is the condition of road?,non flooded,Condition_Road
+525,2734,7204.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+526,2735,7204.JPG,How many buildings are in this image?,2,Simple_Counting
+527,2741,7206.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+528,2742,7206.JPG,Is the entire road flooded?,No,Yes/No_Road
+529,2743,7206.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+530,2744,7206.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+531,2745,7206.JPG,How many buildings are non flooded?,2,Complex_Counting
+532,2767,7216.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+533,2768,7216.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+534,2769,7216.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+535,2770,7217.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+536,2771,7217.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+537,2772,7217.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+538,2773,7218.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+539,2774,7218.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+540,2775,7218.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+541,2791,7224.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+542,2792,7224.JPG,What is the condition of road?,non flooded,Condition_Road
+543,2793,7224.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+544,2826,7234.JPG,What is the condition of road?,non flooded,Condition_Road
+545,2827,7234.JPG,How many buildings are non flooded?,4,Complex_Counting
+546,2828,7234.JPG,Is the entire road flooded?,No,Yes/No_Road
+547,2829,7234.JPG,How many buildings are in the image?,4,Simple_Counting
+548,2830,7234.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+549,2841,7237.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+550,2842,7237.JPG,How many buildings are in the image?,4,Simple_Counting
+551,2843,7237.JPG,How many buildings are non flooded?,4,Complex_Counting
+552,2844,7237.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+553,2845,7237.JPG,What is the condition of road?,non flooded,Condition_Road
+554,2928,7262.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+555,2929,7262.JPG,How many buildings are flooded in this image?,17,Complex_Counting
+556,2930,7262.JPG,How many buildings can be seen in this image?,17,Simple_Counting
+557,2931,7262.JPG,What is the condition of road?,flooded,Condition_Road
+558,2932,7262.JPG,Is the entire road non flooded?,No,Yes/No_Road
+559,2980,7274.JPG,How many buildings are non flooded?,4,Complex_Counting
+560,2981,7274.JPG,How many buildings are flooded?,2,Complex_Counting
+561,2982,7274.JPG,How many buildings can be seen in this image?,6,Simple_Counting
+562,2983,7274.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+563,2984,7274.JPG,Is the entire road non flooded?,No,Yes/No_Road
+564,2985,7274.JPG,What is the condition of road?,flooded,Condition_Road
+565,3003,7283.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+566,3004,7283.JPG,How many buildings are flooded?,1,Complex_Counting
+567,3005,7283.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+568,3006,7283.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+569,3007,7283.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+570,3008,7283.JPG,How many buildings are non flooded?,2,Complex_Counting
+571,3019,7286.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+572,3020,7286.JPG,How many buildings are in this image?,7,Simple_Counting
+573,3021,7286.JPG,How many buildings are flooded in this image?,5,Complex_Counting
+574,3022,7286.JPG,How many buildings are non flooded?,2,Complex_Counting
+575,3023,7286.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+576,3024,7286.JPG,Is the entire road non flooded?,No,Yes/No_Road
+577,3118,7309.JPG,How many buildings can be seen in the image?,16,Simple_Counting
+578,3119,7309.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+579,3120,7309.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+580,3121,7309.JPG,How many buildings are non flooded in this image?,12,Complex_Counting
+581,3122,7309.JPG,What is the condition of road?,"flooded,non flooded",Condition_Road
+582,3123,7309.JPG,How many buildings are flooded in this image?,4,Complex_Counting
+583,3220,7329.JPG,How many buildings are flooded in this image?,26,Complex_Counting
+584,3221,7329.JPG,How many buildings are in the image?,26,Simple_Counting
+585,3222,7329.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+586,3223,7329.JPG,What is the condition of road?,flooded,Condition_Road
+587,3224,7329.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+588,3247,7334.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+589,3248,7334.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+590,3249,7334.JPG,How many buildings are flooded in this image?,7,Complex_Counting
+591,3250,7334.JPG,How many buildings can be seen in the image?,7,Simple_Counting
+592,3251,7334.JPG,Is the entire road non flooded?,No,Yes/No_Road
+593,3262,7337.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+594,3263,7337.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+595,3264,7337.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+596,3265,7337.JPG,Is the entire road non flooded?,No,Yes/No_Road
+597,3266,7337.JPG,How many flooded buildings can be seen in this image?,9,Complex_Counting
+598,3267,7337.JPG,How many buildings are in the image?,12,Simple_Counting
+599,3268,7338.JPG,How many buildings are flooded?,12,Complex_Counting
+600,3269,7338.JPG,How many buildings are non flooded?,6,Complex_Counting
+601,3270,7338.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+602,3271,7338.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+603,3272,7338.JPG,How many buildings are in this image?,18,Simple_Counting
+604,3273,7338.JPG,Is the entire road non flooded?,No,Yes/No_Road
+605,3292,7346.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+606,3294,7351.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+607,3295,7351.JPG,How many buildings are in this image?,1,Simple_Counting
+608,3296,7351.JPG,What is the condition of road?,flooded,Condition_Road
+609,3297,7351.JPG,Is the entire road non flooded?,No,Yes/No_Road
+610,3298,7351.JPG,How many buildings are non flooded?,1,Complex_Counting
+611,3299,7352.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+612,3325,7358.JPG,How many buildings can be seen in the image?,8,Simple_Counting
+613,3326,7358.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+614,3327,7358.JPG,What is the condition of road?,flooded,Condition_Road
+615,3328,7358.JPG,How many buildings are flooded in this image?,8,Complex_Counting
+616,3329,7358.JPG,Is the entire road non flooded?,No,Yes/No_Road
+617,3336,7360.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+618,3337,7360.JPG,Is the entire road non flooded?,No,Yes/No_Road
+619,3338,7360.JPG,How many buildings are flooded in this image?,7,Complex_Counting
+620,3339,7360.JPG,What is the condition of road?,flooded,Condition_Road
+621,3340,7360.JPG,How many buildings can be seen in this image?,8,Simple_Counting
+622,3341,7360.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+623,3368,7369.JPG,How many buildings are in the image?,5,Simple_Counting
+624,3369,7369.JPG,How many buildings are flooded?,5,Complex_Counting
+625,3370,7369.JPG,Is the entire road non flooded?,No,Yes/No_Road
+626,3371,7369.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+627,3372,7369.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+628,3378,7371.JPG,What is the condition of road?,flooded,Condition_Road
+629,3379,7371.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+630,3380,7371.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+631,3381,7371.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+632,3382,7371.JPG,How many buildings are flooded in this image?,1,Complex_Counting
+633,3383,7371.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+634,3390,7373.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+635,3391,7373.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+636,3392,7373.JPG,How many buildings are in the image?,3,Simple_Counting
+637,3393,7373.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+638,3394,7373.JPG,Is the entire road non flooded?,No,Yes/No_Road
+639,3395,7373.JPG,How many buildings are flooded?,2,Complex_Counting
+640,3432,7407.JPG,How many buildings are flooded?,12,Complex_Counting
+641,3433,7407.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+642,3434,7407.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+643,3435,7407.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+644,3436,7407.JPG,How many buildings can be seen in this image?,13,Simple_Counting
+645,3437,7407.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+646,3443,7409.JPG,How many buildings are flooded in this image?,11,Complex_Counting
+647,3444,7409.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+648,3445,7409.JPG,How many buildings can be seen in this image?,13,Simple_Counting
+649,3446,7409.JPG,How many buildings are non flooded?,2,Complex_Counting
+650,3447,7409.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+651,3448,7409.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+652,3479,7416.JPG,How many buildings are flooded in this image?,23,Complex_Counting
+653,3480,7416.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+654,3481,7416.JPG,What is the condition of road?,flooded,Condition_Road
+655,3482,7416.JPG,Is the entire road non flooded?,No,Yes/No_Road
+656,3483,7416.JPG,How many buildings can be seen in the image?,23,Simple_Counting
+657,3484,7417.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+658,3485,7417.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+659,3486,7417.JPG,How many buildings are in the image?,23,Simple_Counting
+660,3487,7417.JPG,What is the condition of road?,flooded,Condition_Road
+661,3488,7417.JPG,How many buildings are flooded in this image?,23,Complex_Counting
+662,3506,7421.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+663,3507,7421.JPG,How many buildings are non flooded?,1,Complex_Counting
+664,3508,7421.JPG,How many buildings can be seen in the image?,25,Simple_Counting
+665,3509,7421.JPG,How many buildings are flooded in this image?,24,Complex_Counting
+666,3510,7421.JPG,Is the entire road non flooded?,No,Yes/No_Road
+667,3511,7421.JPG,What is the condition of road?,flooded,Condition_Road
+668,3523,7424.JPG,How many buildings are non flooded?,3,Complex_Counting
+669,3524,7424.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+670,3525,7424.JPG,How many buildings can be seen in this image?,23,Simple_Counting
+671,3526,7424.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+672,3527,7424.JPG,How many buildings are flooded in this image?,20,Complex_Counting
+673,3528,7424.JPG,Is the entire road non flooded?,No,Yes/No_Road
+674,3529,7425.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+675,3530,7425.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+676,3531,7425.JPG,How many buildings are non flooded in this image?,2,Complex_Counting
+677,3532,7425.JPG,How many buildings are flooded?,19,Complex_Counting
+678,3533,7425.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+679,3534,7425.JPG,How many buildings are in the image?,21,Simple_Counting
+680,3563,7432.JPG,What is the condition of road?,flooded,Condition_Road
+681,3564,7432.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+682,3565,7432.JPG,How many buildings can be seen in the image?,22,Simple_Counting
+683,3566,7432.JPG,Is the entire road non flooded?,No,Yes/No_Road
+684,3567,7432.JPG,How many flooded buildings can be seen in this image?,22,Complex_Counting
+685,3568,7433.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+686,3569,7433.JPG,How many buildings are flooded?,31,Complex_Counting
+687,3570,7433.JPG,Is the entire road non flooded?,No,Yes/No_Road
+688,3571,7433.JPG,How many buildings are in this image?,31,Simple_Counting
+689,3572,7433.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+690,3578,7435.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+691,3579,7435.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+692,3580,7435.JPG,How many buildings are flooded in this image?,32,Complex_Counting
+693,3581,7435.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+694,3582,7435.JPG,How many buildings can be seen in this image?,32,Simple_Counting
+695,3588,7437.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+696,3589,7437.JPG,Is the entire road non flooded?,No,Yes/No_Road
+697,3590,7437.JPG,What is the condition of road?,flooded,Condition_Road
+698,3591,7437.JPG,How many buildings are flooded in this image?,29,Complex_Counting
+699,3592,7437.JPG,How many buildings can be seen in the image?,29,Simple_Counting
+700,3615,7446.JPG,How many buildings are flooded in this image?,6,Complex_Counting
+701,3616,7446.JPG,How many buildings can be seen in this image?,6,Simple_Counting
+702,3617,7446.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+703,3618,7446.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+704,3619,7446.JPG,Is the entire road non flooded?,No,Yes/No_Road
+705,3620,7447.JPG,How many buildings are flooded?,9,Complex_Counting
+706,3621,7447.JPG,How many buildings can be seen in this image?,9,Simple_Counting
+707,3622,7447.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+708,3656,7455.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+709,3657,7455.JPG,What is the condition of road?,flooded,Condition_Road
+710,3658,7455.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+711,3659,7455.JPG,How many buildings are in the image?,4,Simple_Counting
+712,3660,7455.JPG,How many buildings are flooded?,4,Complex_Counting
+713,3721,7468.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+714,3722,7468.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+715,3723,7468.JPG,How many flooded buildings can be seen in this image?,12,Complex_Counting
+716,3724,7468.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+717,3725,7468.JPG,How many buildings can be seen in this image?,12,Simple_Counting
+718,3770,7483.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+719,3771,7483.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+720,3772,7483.JPG,How many buildings can be seen in the image?,13,Simple_Counting
+721,3773,7483.JPG,What is the condition of road?,flooded,Condition_Road
+722,3774,7483.JPG,How many buildings are flooded?,13,Complex_Counting
+723,3801,7490.JPG,What is the condition of road?,"flooded,non flooded",Condition_Road
+724,3802,7490.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+725,3803,7490.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+726,3804,7490.JPG,How many buildings are in the image?,11,Simple_Counting
+727,3805,7490.JPG,How many flooded buildings can be seen in this image?,11,Complex_Counting
+728,3806,7516.JPG,How many buildings can be seen in the image?,16,Simple_Counting
+729,3807,7516.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+730,3808,7516.JPG,How many buildings are non flooded?,1,Complex_Counting
+731,3809,7516.JPG,What is the condition of road?,flooded,Condition_Road
+732,3810,7516.JPG,How many flooded buildings can be seen in this image?,15,Complex_Counting
+733,3811,7516.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+734,3812,7519.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+735,3813,7519.JPG,How many buildings can be seen in this image?,17,Simple_Counting
+736,3814,7519.JPG,How many flooded buildings can be seen in this image?,17,Complex_Counting
+737,3815,7519.JPG,What is the condition of road?,flooded,Condition_Road
+738,3816,7519.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+739,3883,7555.JPG,How many buildings can be seen in the image?,21,Simple_Counting
+740,3884,7555.JPG,Is the entire road non flooded?,No,Yes/No_Road
+741,3885,7555.JPG,How many buildings are flooded in this image?,21,Complex_Counting
+742,3886,7555.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+743,3887,7555.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+744,3898,7558.JPG,Is the entire road non flooded?,No,Yes/No_Road
+745,3899,7558.JPG,How many buildings can be seen in this image?,8,Simple_Counting
+746,3900,7558.JPG,How many buildings are flooded?,8,Complex_Counting
+747,3901,7558.JPG,What is the condition of road?,flooded,Condition_Road
+748,3902,7558.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+749,3929,7569.JPG,What is the condition of road?,flooded,Condition_Road
+750,3930,7569.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+751,3931,7569.JPG,How many buildings are flooded?,23,Complex_Counting
+752,3932,7569.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+753,3933,7569.JPG,How many buildings are in this image?,23,Simple_Counting
+754,3934,7570.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+755,3935,7570.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+756,3936,7570.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+757,3937,7570.JPG,How many buildings are in this image?,20,Simple_Counting
+758,3938,7570.JPG,How many buildings are flooded in this image?,20,Complex_Counting
+759,3944,7572.JPG,How many buildings can be seen in this image?,19,Simple_Counting
+760,3945,7572.JPG,What is the condition of road?,flooded,Condition_Road
+761,3946,7572.JPG,Is the entire road non flooded?,No,Yes/No_Road
+762,3947,7572.JPG,How many flooded buildings can be seen in this image?,19,Complex_Counting
+763,3948,7572.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+764,3964,7576.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+765,3965,7576.JPG,How many buildings are flooded?,20,Complex_Counting
+766,3966,7576.JPG,How many buildings are in this image?,20,Simple_Counting
+767,3967,7576.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+768,3968,7576.JPG,What is the condition of road?,flooded,Condition_Road
+769,3974,7578.JPG,How many buildings are flooded?,16,Complex_Counting
+770,3975,7578.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+771,3976,7578.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+772,3977,7578.JPG,How many buildings are in this image?,16,Simple_Counting
+773,3978,7578.JPG,What is the condition of the road in this image?,"flooded,non flooded",Condition_Road
+774,4025,7588.JPG,What is the condition of road?,flooded,Condition_Road
+775,4026,7588.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+776,4027,7588.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+777,4028,7588.JPG,How many buildings are in the image?,16,Simple_Counting
+778,4029,7588.JPG,How many buildings are flooded?,16,Complex_Counting
+779,4040,7592.JPG,How many buildings can be seen in this image?,15,Simple_Counting
+780,4041,7592.JPG,How many buildings are flooded in this image?,3,Complex_Counting
+781,4042,7592.JPG,How many buildings are non flooded in this image?,12,Complex_Counting
+782,4043,7592.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+783,4044,7592.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+784,4045,7592.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+785,4075,7598.JPG,How many flooded buildings can be seen in this image?,16,Complex_Counting
+786,4076,7598.JPG,How many buildings are in this image?,16,Simple_Counting
+787,4077,7598.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+788,4078,7598.JPG,Is the entire road non flooded?,No,Yes/No_Road
+789,4079,7598.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+790,4080,7599.JPG,How many buildings are flooded in this image?,22,Complex_Counting
+791,4081,7599.JPG,How many buildings are in this image?,22,Simple_Counting
+792,4082,7599.JPG,What is the condition of road?,flooded,Condition_Road
+793,4083,7599.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+794,4084,7599.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+795,4122,7607.JPG,How many buildings are flooded in this image?,13,Complex_Counting
+796,4123,7607.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+797,4124,7607.JPG,What is the condition of the road in this image?,"flooded,non flooded",Condition_Road
+798,4125,7607.JPG,How many buildings are in the image?,13,Simple_Counting
+799,4126,7607.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+800,4127,7608.JPG,What is the condition of road?,flooded,Condition_Road
+801,4128,7608.JPG,Is the entire road non flooded?,No,Yes/No_Road
+802,4129,7608.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+803,4130,7608.JPG,How many buildings are in this image?,15,Simple_Counting
+804,4131,7608.JPG,How many buildings are flooded in this image?,15,Complex_Counting
+805,4137,7610.JPG,Is the entire road non flooded?,No,Yes/No_Road
+806,4138,7610.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+807,4139,7610.JPG,How many buildings are in this image?,16,Simple_Counting
+808,4140,7610.JPG,What is the condition of the road in this image?,flooded,Condition_Road
+809,4141,7610.JPG,How many buildings are non flooded?,2,Complex_Counting
+810,4142,7610.JPG,How many buildings are flooded?,14,Complex_Counting
+811,4154,7613.JPG,Is the entire road flooded?,Yes,Yes/No_Road
+812,4155,7613.JPG,What is the condition of road?,"flooded,non flooded",Condition_Road
+813,4156,7613.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+814,4157,7613.JPG,How many buildings are flooded in this image?,13,Complex_Counting
+815,4158,7613.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+816,4159,7613.JPG,How many buildings can be seen in the image?,15,Simple_Counting
+817,4176,7642.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+818,4177,7642.JPG,What is the condition of road?,non flooded,Condition_Road
+819,4178,7642.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+820,4179,7642.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+821,4180,7642.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+822,4211,7649.JPG,What is the condition of road?,non flooded,Condition_Road
+823,4212,7649.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+824,4213,7649.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+825,4214,7649.JPG,How many buildings can be seen in this image?,3,Simple_Counting
+826,4215,7649.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+827,4246,7656.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+828,4247,7656.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+829,4248,7656.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+830,4249,7657.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+831,4250,7657.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+832,4251,7657.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+833,4258,7660.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+834,4259,7660.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+835,4260,7660.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+836,4267,7663.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+837,4268,7663.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+838,4269,7663.JPG,What is the condition of road?,non flooded,Condition_Road
+839,4277,7667.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+840,4278,7668.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+841,4279,7669.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+842,4293,7676.JPG,What is the condition of road?,non flooded,Condition_Road
+843,4294,7676.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+844,4295,7676.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+845,4296,7676.JPG,How many buildings are non flooded in this image?,2,Complex_Counting
+846,4297,7676.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+847,4308,7679.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+848,4309,7679.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+849,4310,7679.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+850,4311,7679.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+851,4312,7679.JPG,How many buildings are in the image?,4,Simple_Counting
+852,4328,7683.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+853,4329,7683.JPG,How many buildings are non flooded?,1,Complex_Counting
+854,4330,7683.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+855,4331,7683.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+856,4332,7683.JPG,What is the condition of road?,non flooded,Condition_Road
+857,4348,7687.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+858,4349,7687.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+859,4350,7687.JPG,Is the entire road flooded?,No,Yes/No_Road
+860,4351,7687.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+861,4352,7687.JPG,What is the condition of road?,non flooded,Condition_Road
+862,4383,7694.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+863,4384,7694.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+864,4385,7694.JPG,How many buildings are non flooded?,1,Complex_Counting
+865,4401,7699.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+866,4402,7699.JPG,How many buildings are non flooded in this image?,3,Complex_Counting
+867,4403,7699.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+868,4409,7701.JPG,What is the condition of road?,non flooded,Condition_Road
+869,4410,7701.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+870,4411,7701.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+871,4412,7701.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+872,4413,7701.JPG,How many buildings are non flooded?,2,Complex_Counting
+873,4433,7716.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+874,4434,7716.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+875,4435,7716.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+876,4465,7732.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+877,4467,7734.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+878,4471,7738.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+879,4474,7741.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+880,4475,7742.JPG,How many buildings are in this image?,2,Simple_Counting
+881,4476,7742.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+882,4477,7742.JPG,How many buildings are non flooded?,2,Complex_Counting
+883,4482,7747.JPG,How many buildings are in this image?,1,Simple_Counting
+884,4483,7747.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+885,4484,7747.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+886,4515,7762.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+887,4522,7769.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+888,4532,7779.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+889,4534,7781.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+890,4535,7781.JPG,How many buildings are in the image?,1,Simple_Counting
+891,4536,7781.JPG,How many buildings are non flooded?,1,Complex_Counting
+892,4548,7785.JPG,What is the condition of road?,non flooded,Condition_Road
+893,4549,7785.JPG,How many buildings can be seen in this image?,4,Simple_Counting
+894,4550,7785.JPG,How many buildings are non flooded?,4,Complex_Counting
+895,4551,7785.JPG,Is the entire road flooded?,No,Yes/No_Road
+896,4552,7785.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+897,4565,7790.JPG,How many buildings are non flooded?,1,Complex_Counting
+898,4566,7790.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+899,4567,7790.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+900,4570,7793.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+901,4574,7797.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+902,4576,7799.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+903,4587,7811.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+904,4595,7819.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+905,4605,7823.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+906,4606,7823.JPG,Is the entire road flooded?,No,Yes/No_Road
+907,4607,7823.JPG,What is the condition of road?,non flooded,Condition_Road
+908,4608,7824.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+909,4609,7824.JPG,Is the entire road flooded?,No,Yes/No_Road
+910,4610,7824.JPG,What is the condition of road?,non flooded,Condition_Road
+911,4614,7826.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+912,4615,7826.JPG,Is the entire road flooded?,No,Yes/No_Road
+913,4616,7826.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+914,4632,7836.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+915,4634,7838.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+916,4642,7846.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+917,4646,7850.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+918,4647,7851.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+919,4650,7854.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+920,4663,7860.JPG,How many buildings are non flooded in this image?,2,Complex_Counting
+921,4664,7860.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+922,4665,7860.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+923,4696,7885.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+924,4697,7885.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+925,4698,7885.JPG,Is the entire road flooded?,No,Yes/No_Road
+926,4699,7886.JPG,Is the entire road flooded?,No,Yes/No_Road
+927,4700,7886.JPG,What is the condition of road?,non flooded,Condition_Road
+928,4701,7886.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+929,4702,7887.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+930,4703,7887.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+931,4704,7887.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+932,4714,7891.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+933,4715,7891.JPG,Is the entire road flooded?,No,Yes/No_Road
+934,4716,7891.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+935,4732,7897.JPG,What is the condition of road?,non flooded,Condition_Road
+936,4733,7897.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+937,4734,7897.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+938,4735,7898.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+939,4736,7898.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+940,4737,7898.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+941,4741,7900.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+942,4742,7900.JPG,What is the condition of road?,non flooded,Condition_Road
+943,4743,7900.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+944,4769,7912.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+945,4770,7913.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+946,4802,7943.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+947,4814,7955.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+948,4828,7970.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+949,4834,7976.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+950,4838,7978.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+951,4839,7978.JPG,What is the condition of road?,non flooded,Condition_Road
+952,4840,7978.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+953,4856,7984.JPG,Is the entire road flooded?,No,Yes/No_Road
+954,4857,7984.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+955,4858,7984.JPG,What is the condition of road?,non flooded,Condition_Road
+956,4868,7988.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+957,4869,7988.JPG,What is the condition of road?,non flooded,Condition_Road
+958,4870,7988.JPG,Is the entire road flooded?,No,Yes/No_Road
+959,4874,7990.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+960,4875,7990.JPG,Is the entire road flooded?,No,Yes/No_Road
+961,4876,7990.JPG,What is the condition of road?,non flooded,Condition_Road
+962,4877,7991.JPG,What is the condition of road?,non flooded,Condition_Road
+963,4878,7991.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+964,4879,7991.JPG,Is the entire road flooded?,No,Yes/No_Road
+965,4880,7992.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+966,4881,7992.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+967,4882,7992.JPG,Is the entire road flooded?,No,Yes/No_Road
+968,4886,7994.JPG,What is the condition of road?,non flooded,Condition_Road
+969,4887,7994.JPG,Is the entire road flooded?,No,Yes/No_Road
+970,4888,7994.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+971,4912,8004.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+972,4914,8006.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+973,4920,8012.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+974,4927,8019.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+975,4932,8025.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+976,4942,8035.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+977,4943,8036.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+978,4957,8050.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+979,4961,8054.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+980,4965,8058.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+981,4980,8067.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+982,4981,8067.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+983,4982,8067.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+984,4992,8071.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+985,4993,8071.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+986,4994,8071.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+987,5013,8078.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+988,5014,8078.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+989,5015,8078.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+990,5016,8079.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+991,5017,8079.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+992,5018,8079.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+993,5031,8084.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+994,5032,8084.JPG,What is the condition of road?,non flooded,Condition_Road
+995,5033,8084.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+996,5043,8088.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+997,5044,8088.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+998,5045,8088.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+999,5055,8092.JPG,Is the entire road flooded?,No,Yes/No_Road
+1000,5056,8092.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1001,5057,8092.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1002,5070,8097.JPG,Is the entire road flooded?,No,Yes/No_Road
+1003,5071,8097.JPG,What is the condition of road?,non flooded,Condition_Road
+1004,5072,8097.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1005,5094,8105.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1006,5095,8105.JPG,Is the entire road flooded?,No,Yes/No_Road
+1007,5096,8105.JPG,What is the condition of road?,non flooded,Condition_Road
+1008,5104,8113.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1009,5105,8114.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1010,5111,8120.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1011,5114,8124.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1012,5117,8127.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1013,5118,8128.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1014,5138,8144.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1015,5139,8144.JPG,What is the condition of road?,non flooded,Condition_Road
+1016,5140,8144.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1017,5171,8155.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1018,5172,8155.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1019,5173,8155.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1020,5192,8163.JPG,What is the condition of road?,non flooded,Condition_Road
+1021,5193,8163.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1022,5194,8163.JPG,Is the entire road flooded?,No,Yes/No_Road
+1023,5216,8171.JPG,Is the entire road flooded?,No,Yes/No_Road
+1024,5217,8171.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1025,5218,8171.JPG,What is the condition of road?,non flooded,Condition_Road
+1026,5237,8179.JPG,What is the condition of road?,non flooded,Condition_Road
+1027,5238,8179.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1028,5239,8179.JPG,Is the entire road flooded?,No,Yes/No_Road
+1029,5240,8180.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1030,5241,8180.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1031,5242,8180.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1032,5243,8181.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1033,5248,8186.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1034,5249,8187.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1035,5250,8188.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1036,5253,8191.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1037,5260,8198.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1038,5266,8204.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1039,5273,8209.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1040,5283,8213.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1041,5284,8213.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1042,5285,8213.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1043,5291,8218.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1044,5293,8220.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1045,5321,8238.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1046,5322,8239.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1047,5329,8246.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1048,5337,8254.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1049,5338,8254.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1050,5339,8254.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1051,5346,8257.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1052,5347,8257.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1053,5348,8257.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1054,5349,8258.JPG,Is the entire road flooded?,No,Yes/No_Road
+1055,5350,8258.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1056,5351,8258.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1057,5358,8263.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1058,5361,8266.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1059,5363,8268.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1060,5365,8270.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1061,5368,8273.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1062,5388,8283.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1063,5390,8285.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1064,5394,8289.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1065,5396,8291.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1066,5400,8295.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1067,5401,8296.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1068,5409,8300.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1069,5410,8300.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1070,5411,8300.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1071,5412,8301.JPG,Is the entire road flooded?,No,Yes/No_Road
+1072,5413,8301.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1073,5414,8301.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1074,5445,8323.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1075,5446,8323.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1076,5447,8323.JPG,Is the entire road flooded?,No,Yes/No_Road
+1077,5451,8325.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1078,5452,8325.JPG,What is the condition of road?,non flooded,Condition_Road
+1079,5453,8325.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1080,5455,8327.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1081,5456,8328.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1082,5459,8331.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1083,5461,8333.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1084,5465,8337.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1085,5466,8337.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+1086,5467,8337.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1087,5503,8349.JPG,How many buildings are in the image?,1,Simple_Counting
+1088,5504,8349.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1089,5505,8349.JPG,Is the entire road flooded?,No,Yes/No_Road
+1090,5506,8349.JPG,What is the condition of road?,non flooded,Condition_Road
+1091,5507,8349.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1092,5523,8353.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1093,5524,8353.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1094,5525,8353.JPG,What is the condition of road?,non flooded,Condition_Road
+1095,5526,8353.JPG,How many buildings are in the image?,1,Simple_Counting
+1096,5527,8353.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1097,5550,8360.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+1098,5551,8360.JPG,How many buildings are non flooded?,1,Complex_Counting
+1099,5552,8360.JPG,Is the entire road flooded?,No,Yes/No_Road
+1100,5553,8360.JPG,What is the condition of road?,non flooded,Condition_Road
+1101,5554,8360.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1102,5565,8365.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1103,5566,8365.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1104,5567,8365.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1105,5599,8373.JPG,How many buildings are in the image?,1,Simple_Counting
+1106,5600,8373.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1107,5601,8373.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1108,5602,8373.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1109,5603,8373.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1110,5619,8377.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+1111,5620,8377.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+1112,5621,8377.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1113,5622,8377.JPG,What is the condition of road?,non flooded,Condition_Road
+1114,5623,8377.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1115,5643,8395.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1116,5695,8414.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1117,5725,8435.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1118,5726,8435.JPG,What is the condition of road?,non flooded,Condition_Road
+1119,5727,8435.JPG,How many buildings are non flooded?,1,Complex_Counting
+1120,5728,8435.JPG,How many buildings are in this image?,1,Simple_Counting
+1121,5729,8435.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1122,5755,8441.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1123,5756,8441.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1124,5757,8441.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+1125,5758,8441.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1126,5759,8441.JPG,Is the entire road flooded?,No,Yes/No_Road
+1127,5770,8444.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1128,5771,8444.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1129,5772,8444.JPG,How many buildings are in this image?,1,Simple_Counting
+1130,5773,8444.JPG,What is the condition of road?,non flooded,Condition_Road
+1131,5774,8444.JPG,Is the entire road flooded?,No,Yes/No_Road
+1132,5797,8466.JPG,What is the condition of road?,non flooded,Condition_Road
+1133,5798,8466.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1134,5799,8466.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1135,5800,8468.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1136,5801,8468.JPG,What is the condition of road?,non flooded,Condition_Road
+1137,5802,8468.JPG,Is the entire road flooded?,No,Yes/No_Road
+1138,5809,8471.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1139,5816,8474.JPG,How many buildings are in the image?,3,Simple_Counting
+1140,5817,8474.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+1141,5818,8474.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1142,5874,8489.JPG,What is the condition of road?,non flooded,Condition_Road
+1143,5875,8489.JPG,Is the entire road flooded?,No,Yes/No_Road
+1144,5876,8489.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+1145,5877,8489.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+1146,5878,8489.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1147,5924,8503.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1148,5926,8505.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1149,5930,8509.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1150,5938,8513.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+1151,5939,8513.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1152,5940,8513.JPG,How many buildings are non flooded?,2,Complex_Counting
+1153,5957,8519.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1154,5958,8519.JPG,Is the entire road flooded?,No,Yes/No_Road
+1155,5959,8519.JPG,What is the condition of road?,non flooded,Condition_Road
+1156,5990,8532.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1157,5992,8534.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1158,5995,8537.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1159,6007,8549.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1160,6012,8554.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1161,6017,8559.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1162,6026,8591.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1163,6030,8595.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1164,6031,8596.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1165,6037,8602.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1166,6042,8620.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1167,6043,8624.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1168,6056,8771.JPG,What is the condition of road?,non flooded,Condition_Road
+1169,6057,8771.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1170,6058,8771.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1171,6059,8772.JPG,What is the condition of road?,non flooded,Condition_Road
+1172,6060,8772.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1173,6061,8772.JPG,Is the entire road flooded?,No,Yes/No_Road
+1174,6080,8779.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1175,6081,8779.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1176,6082,8779.JPG,What is the condition of road?,non flooded,Condition_Road
+1177,6083,8780.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1178,6084,8780.JPG,What is the condition of road?,non flooded,Condition_Road
+1179,6085,8780.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1180,6089,8782.JPG,What is the condition of road?,non flooded,Condition_Road
+1181,6090,8782.JPG,Is the entire road flooded?,No,Yes/No_Road
+1182,6091,8782.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1183,6098,8787.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1184,6099,8788.JPG,How many buildings are in this image?,1,Simple_Counting
+1185,6100,8788.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1186,6101,8788.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1187,6105,8790.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+1188,6106,8790.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1189,6107,8790.JPG,What is the condition of road?,non flooded,Condition_Road
+1190,6108,8790.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1191,6109,8790.JPG,How many buildings are in this image?,2,Simple_Counting
+1192,6116,8793.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1193,6131,8806.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1194,6132,8806.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1195,6133,8806.JPG,How many buildings are in this image?,1,Simple_Counting
+1196,6137,8808.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+1197,6138,8808.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+1198,6139,8808.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1199,6146,8811.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1200,6147,8811.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+1201,6148,8811.JPG,How many buildings can be seen in the image?,3,Simple_Counting
+1202,6152,8813.JPG,How many buildings are non flooded?,2,Complex_Counting
+1203,6153,8813.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+1204,6154,8813.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1205,6172,8819.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1206,6173,8819.JPG,How many buildings are in this image?,1,Simple_Counting
+1207,6174,8819.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1208,6209,8896.JPG,What is the condition of road?,non flooded,Condition_Road
+1209,6210,8896.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1210,6211,8896.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1211,6212,8897.JPG,What is the condition of road?,non flooded,Condition_Road
+1212,6213,8897.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1213,6214,8897.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1214,6218,8899.JPG,What is the condition of road?,non flooded,Condition_Road
+1215,6219,8899.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1216,6220,8899.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1217,6230,8903.JPG,Is the entire road flooded?,No,Yes/No_Road
+1218,6231,8903.JPG,What is the condition of road?,non flooded,Condition_Road
+1219,6232,8903.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1220,6245,8908.JPG,Is the entire road flooded?,No,Yes/No_Road
+1221,6246,8908.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1222,6247,8908.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1223,6260,8913.JPG,Is the entire road flooded?,No,Yes/No_Road
+1224,6261,8913.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1225,6262,8913.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1226,6281,8920.JPG,Is the entire road flooded?,No,Yes/No_Road
+1227,6282,8920.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1228,6283,8920.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1229,6329,8936.JPG,What is the condition of road?,non flooded,Condition_Road
+1230,6330,8936.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1231,6331,8936.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1232,6338,8939.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1233,6339,8939.JPG,What is the condition of road?,non flooded,Condition_Road
+1234,6340,8939.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1235,6344,8941.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1236,6345,8941.JPG,Is the entire road flooded?,No,Yes/No_Road
+1237,6346,8941.JPG,What is the condition of road?,non flooded,Condition_Road
+1238,6355,8944.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1239,6356,8944.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1240,6357,8944.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+1241,6358,8944.JPG,What is the condition of road?,non flooded,Condition_Road
+1242,6359,8944.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1243,6365,8946.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1244,6366,8946.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1245,6367,8946.JPG,How many buildings are non flooded in this image?,2,Complex_Counting
+1246,6368,8946.JPG,How many buildings are in this image?,2,Simple_Counting
+1247,6369,8946.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1248,6385,8950.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1249,6386,8950.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1250,6387,8950.JPG,How many buildings are non flooded in this image?,6,Complex_Counting
+1251,6388,8950.JPG,How many buildings can be seen in the image?,6,Simple_Counting
+1252,6389,8950.JPG,Is the entire road flooded?,No,Yes/No_Road
+1253,6405,8954.JPG,How many buildings are non flooded?,3,Complex_Counting
+1254,6406,8954.JPG,How many buildings are in this image?,3,Simple_Counting
+1255,6407,8954.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1256,6408,8954.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1257,6409,8954.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1258,6443,8964.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1259,6444,8964.JPG,What is the condition of road?,non flooded,Condition_Road
+1260,6445,8964.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1261,6489,8976.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1262,6490,8976.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1263,6491,8976.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1264,6492,8976.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1265,6493,8976.JPG,How many buildings can be seen in this image?,1,Simple_Counting
+1266,6502,8979.JPG,Is the entire road flooded?,No,Yes/No_Road
+1267,6503,8979.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1268,6504,8979.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1269,6524,8985.JPG,How many buildings are in the image?,1,Simple_Counting
+1270,6525,8985.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1271,6526,8985.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1272,6527,8985.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1273,6528,8985.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1274,6535,8988.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1275,6536,8988.JPG,Is the entire road flooded?,No,Yes/No_Road
+1276,6537,8988.JPG,What is the condition of road?,non flooded,Condition_Road
+1277,6541,8990.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1278,6542,8990.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1279,6543,8990.JPG,What is the condition of road?,non flooded,Condition_Road
+1280,6547,8992.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+1281,6548,8992.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1282,6549,8992.JPG,What is the condition of road?,non flooded,Condition_Road
+1283,6562,8997.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+1284,6563,8997.JPG,Is the entire road flooded?,No,Yes/No_Road
+1285,6564,8997.JPG,What is the condition of road?,non flooded,Condition_Road
+1286,6586,9005.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1287,6587,9005.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1288,6588,9005.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+1289,6615,9014.JPG,How many buildings are in this image?,1,Simple_Counting
+1290,6616,9014.JPG,Is the entire road flooded?,No,Yes/No_Road
+1291,6617,9014.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1292,6618,9014.JPG,What is the overall condition of the given image?,flooded,Entire_Image_condition
+1293,6619,9014.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1294,6625,9016.JPG,How many buildings are non flooded?,2,Complex_Counting
+1295,6626,9016.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1296,6627,9016.JPG,How many buildings are in this image?,2,Simple_Counting
+1297,6628,9016.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1298,6629,9016.JPG,Is the entire road flooded?,No,Yes/No_Road
+1299,6645,9020.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1300,6646,9020.JPG,How many buildings can be seen in the image?,2,Simple_Counting
+1301,6647,9020.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1302,6648,9020.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+1303,6649,9020.JPG,Is the entire road flooded?,No,Yes/No_Road
+1304,6660,9024.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1305,6661,9024.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1306,6662,9024.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1307,6663,9024.JPG,How many buildings are in the image?,1,Simple_Counting
+1308,6664,9024.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1309,6683,9031.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1310,6684,9031.JPG,What is the condition of road?,non flooded,Condition_Road
+1311,6685,9031.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1312,6720,9041.JPG,How many buildings can be seen in this image?,2,Simple_Counting
+1313,6721,9041.JPG,Is the entire road flooded?,No,Yes/No_Road
+1314,6722,9041.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1315,6723,9041.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1316,6724,9041.JPG,How many buildings are non flooded?,2,Complex_Counting
+1317,6745,9046.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1318,6746,9046.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+1319,6747,9046.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1320,6748,9046.JPG,How many buildings are in the image?,4,Simple_Counting
+1321,6749,9046.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1322,6755,9048.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1323,6756,9048.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1324,6757,9048.JPG,How many buildings are in the image?,4,Simple_Counting
+1325,6758,9048.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1326,6759,9048.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+1327,6770,9051.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1328,6771,9051.JPG,How many non flooded buildings can be seen in this image?,3,Complex_Counting
+1329,6772,9051.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1330,6773,9051.JPG,How many buildings are in the image?,3,Simple_Counting
+1331,6774,9051.JPG,Is the entire road flooded?,No,Yes/No_Road
+1332,6800,9057.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1333,6801,9057.JPG,How many buildings can be seen in this image?,5,Simple_Counting
+1334,6802,9057.JPG,What is the condition of road?,non flooded,Condition_Road
+1335,6803,9057.JPG,How many non flooded buildings can be seen in this image?,5,Complex_Counting
+1336,6804,9057.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1337,6996,9097.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1338,6997,9097.JPG,How many buildings can be seen in this image?,6,Simple_Counting
+1339,6998,9097.JPG,What is the condition of road?,non flooded,Condition_Road
+1340,6999,9097.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1341,7000,9097.JPG,How many buildings are non flooded?,6,Complex_Counting
+1342,7021,9102.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1343,7022,9102.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1344,7023,9102.JPG,How many buildings are non flooded in this image?,6,Complex_Counting
+1345,7024,9102.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1346,7025,9102.JPG,How many buildings are in this image?,6,Simple_Counting
+1347,7108,9313.JPG,How many buildings are in this image?,2,Simple_Counting
+1348,7109,9313.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1349,7110,9313.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1350,7111,9313.JPG,Is the entire road flooded?,No,Yes/No_Road
+1351,7112,9313.JPG,How many non flooded buildings can be seen in this image?,2,Complex_Counting
+1352,7133,9347.JPG,How many non flooded buildings can be seen in this image?,38,Complex_Counting
+1353,7134,9347.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1354,7135,9347.JPG,How many buildings are in the image?,38,Simple_Counting
+1355,7136,9347.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1356,7137,9347.JPG,What is the condition of road?,non flooded,Condition_Road
+1357,7148,9350.JPG,What is the condition of road?,non flooded,Condition_Road
+1358,7149,9350.JPG,How many buildings can be seen in this image?,39,Simple_Counting
+1359,7150,9350.JPG,How many buildings are non flooded?,39,Complex_Counting
+1360,7151,9350.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1361,7152,9350.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1362,7158,9352.JPG,Is the entire road flooded?,No,Yes/No_Road
+1363,7159,9352.JPG,What is the condition of road?,non flooded,Condition_Road
+1364,7160,9352.JPG,How many non flooded buildings can be seen in this image?,40,Complex_Counting
+1365,7161,9352.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1366,7162,9352.JPG,How many buildings can be seen in this image?,40,Simple_Counting
+1367,7168,9364.JPG,Is the entire road flooded?,No,Yes/No_Road
+1368,7169,9364.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1369,7170,9364.JPG,How many buildings are non flooded in this image?,11,Complex_Counting
+1370,7171,9364.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1371,7172,9364.JPG,How many buildings are in the image?,11,Simple_Counting
+1372,7188,9458.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1373,7189,9458.JPG,How many buildings are non flooded in this image?,5,Complex_Counting
+1374,7190,9458.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1375,7191,9458.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1376,7192,9458.JPG,How many buildings are in the image?,5,Simple_Counting
+1377,7198,9460.JPG,Is the entire road flooded?,No,Yes/No_Road
+1378,7199,9460.JPG,How many buildings can be seen in this image?,5,Simple_Counting
+1379,7200,9460.JPG,How many non flooded buildings can be seen in this image?,5,Complex_Counting
+1380,7201,9460.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1381,7202,9460.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1382,7203,9504.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1383,7207,9536.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1384,7250,9726.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1385,7251,9726.JPG,How many buildings are non flooded in this image?,6,Complex_Counting
+1386,7252,9726.JPG,How many buildings can be seen in the image?,6,Simple_Counting
+1387,7253,9726.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1388,7254,9726.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1389,7255,9746.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1390,7256,9746.JPG,How many buildings are non flooded?,1,Complex_Counting
+1391,7257,9746.JPG,How many buildings can be seen in the image?,1,Simple_Counting
+1392,7278,9873.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1393,7279,9873.JPG,Is the entire road flooded?,No,Yes/No_Road
+1394,7280,9873.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1395,7281,9873.JPG,How many buildings are in the image?,1,Simple_Counting
+1396,7282,9873.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1397,7310,9881.JPG,How many buildings are in this image?,1,Simple_Counting
+1398,7311,9881.JPG,How many non flooded buildings can be seen in this image?,1,Complex_Counting
+1399,7312,9881.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1400,7313,9882.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1401,7319,9888.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1402,7328,9893.JPG,How many buildings are in the image?,1,Simple_Counting
+1403,7329,9893.JPG,How many buildings are non flooded in this image?,1,Complex_Counting
+1404,7330,9893.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1405,7340,9923.JPG,How many buildings are in the image?,3,Simple_Counting
+1406,7341,9923.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1407,7342,9923.JPG,How many buildings are non flooded?,3,Complex_Counting
+1408,7343,9923.JPG,Is the entire road flooded?,No,Yes/No_Road
+1409,7344,9923.JPG,What is the condition of the road in this image?,non flooded,Condition_Road
+1410,7345,9924.JPG,What is the overall condition of the given image?,non flooded,Entire_Image_condition
+1411,7346,9924.JPG,What is the condition of road?,non flooded,Condition_Road
+1412,7347,9924.JPG,How many non flooded buildings can be seen in this image?,4,Complex_Counting
+1413,7348,9924.JPG,Is the entire road non flooded?,Yes,Yes/No_Road
+1414,7349,9924.JPG,How many buildings are in the image?,4,Simple_Counting
