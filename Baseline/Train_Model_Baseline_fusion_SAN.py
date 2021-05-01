@@ -121,7 +121,7 @@ os.getcwd()
 # In[ ]:
 
 
-root_dir="./Michael_VQA"
+
 img_dir="./Original_Image"
 img_dir_write="./Original_Image_Final"
 
@@ -150,23 +150,23 @@ image_write(img_dir,img_dir_write,image_list,os.listdir(img_dir))
 # In[ ]:
 
 
-class_to_label=json.load(open(root_dir+"\\harvey_class_to_label.json"))
-label_to_class=json.load(open(root_dir+"\\harvey_label_to_class.json"))
+class_to_label=json.load(open("./data"+\\harvey_class_to_label.json"))
+label_to_class=json.load(open("./data"+"\\harvey_label_to_class.json"))
 
 
 # In[ ]:
 
 
-word_to_index=json.load(open(root_dir+"\\harvey_question_word_to_token.json"))
-index_to_word=json.load(open(root_dir+"\\harvey_question_token_to_word.json"))
+word_to_index=json.load(open("./data"+"\\harvey_question_word_to_token.json"))
+index_to_word=json.load(open("./data"+"\\harvey_question_token_to_word.json"))
 
 
 # In[ ]:
 
 
-training_data_dic=json.load(open(root_dir+"\\Generated_training_question_harvey_VQA.json"))
-valid_data_dic=json.load(open(root_dir+"\\Generated_valid_question_harvey_VQA.json"))
-test_data_dic=json.load(open(root_dir+"\\Generated_test_question_harvey_VQA.json"))
+training_data_dic=json.load(open("./data"+"\\Generated_training_question_harvey_VQA.json"))
+valid_data_dic=json.load(open("./data"+"\\Generated_valid_question_harvey_VQA.json"))
+test_data_dic=json.load(open("./data"+"\\Generated_test_question_harvey_VQA.json"))
 
 
 # In[ ]:
