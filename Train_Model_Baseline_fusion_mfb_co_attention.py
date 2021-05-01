@@ -362,8 +362,8 @@ def vgg_image_model():
     x=BatchNormalization(axis=3)(x)
     x=LeakyReLU()(x)
     x=MaxPooling2D((2,2), strides=(2,2))(x)
-#     x=Dense(1024)(x)
-#     x=LeakyReLU()(x)
+    x=Dense(1024)(x)
+    x=LeakyReLU()(x)
     
 
     
