@@ -393,13 +393,7 @@ def lstm_text_model(number_of_token,length_of_question):
     return model_txt
 
 
-# In[ ]:
 
-
-model_vqa=VQA_MFB(vgg_image_model(),lstm_text_model(len(word_to_index),12))
-
-
-# In[ ]:
 
 
 vgg=vgg_image_model()
@@ -427,14 +421,14 @@ model_vqa.compile(loss='categorical_crossentropy', optimizer="SGD", metrics=["ac
 
 
 callback = [EarlyStopping(monitor='val_loss',mode="min",verbose=1, patience=30),
-             ModelCheckpoint('train_{}_{}.h5'.format("vgg","lstm_baseline_mul"), monitor='val_loss',mode="min" ,verbose=1,save_best_only=True)]
+             ModelCheckpoint('train_{}_{}.h5'.format("vgg","lstm_baseline_concat"), monitor='val_loss',mode="min" ,verbose=1,save_best_only=True)]
 model_fit=model_vqa.fit_generator(training_data,steps_per_epoch=len(training_data_samples)//32,epochs=300,validation_data=valid_data,validation_steps=len(valid_data_samples)//32,verbose=1, callbacks=callback)
 
 
 # In[ ]:
 
 
-model=load_model("train_vgg_lstm_baseline_mul.h5")
+model=load_model("train_vgg_lstm_baseline_concat.h5")
 
 
 # In[ ]:
