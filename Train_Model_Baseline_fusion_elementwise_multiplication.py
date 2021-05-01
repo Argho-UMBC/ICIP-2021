@@ -396,10 +396,10 @@ def lstm_text_model(number_of_token,length_of_question):
 # In[ ]:
 
 
-model_vqa=VQA_MFB(vgg_image_model(),lstm_text_model(len(word_to_index),12))
 
 
-# In[ ]:
+
+
 
 
 vgg=vgg_image_model()
