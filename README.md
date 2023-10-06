@@ -6,9 +6,11 @@ In this paper, we present a Grad-Cam aware supervised attention framework for vi
 ### METHODOLOGY
 
 #### Stage 1
-
 In the first stage, train a baseline attention-based VQA model with cross-entropy loss. Predictions from this model will help to extract the visual explanations for each image-question pair through Grad-Cam architecture.
-
+![ICIP1](icip1.png)
 #### Stage 2
-
 Explanations from stage 1 will be considered to supervise visual attention.
+![ICIP2](icip2.png)
+
+#### Model Performance
+![ICIP3](icip_res.png)
